@@ -161,3 +161,5 @@ An even better way to solve differences between browsers is to shim them via web
 
 More info regarding this topic is coming soon!
 
+## Shout-out
+The **RAMP WebExtensions Generator** is based on [generator-chrome-extension-kickstart](https://github.com/HaNdTriX/generator-chrome-extension-kickstart) by [HaNdTriX](https://github.com/HaNdTriX).
