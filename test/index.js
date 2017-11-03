@@ -6,7 +6,7 @@ const path = require('path')
 const assert = require('yeoman-assert')
 const helpers = require('yeoman-test')
 
-describe('chrome-extension-kickstart:app', () => {
+describe('ramp-webextension-kickstart:app', () => {
   before(() => {
     return helpers.run(path.join(__dirname, '../app'))
       .withOptions({
