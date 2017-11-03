@@ -1,6 +1,6 @@
 {
   "name": "ramp-webextensions-generator",
-  "version": "4.4.2",
+  "version": "4.4.3",
   "description": "Yeoman generator",
   "license": "MIT",
   "main": "app/index.js",
