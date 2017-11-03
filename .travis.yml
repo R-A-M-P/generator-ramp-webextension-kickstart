@@ -4,4 +4,4 @@ node_js:
   - '7'
 before_install:
   - currentfolder=${PWD##*/}
-  - if [ "$currentfolder" != 'generator-chrome-extension-kickstart' ]; then cd .. && eval "mv $currentfolder generator-chrome-extension-kickstart" && cd generator-chrome-extension-kickstart; fi
+  - if [ "$currentfolder" != 'ramp-webextensions-generator' ]; then cd .. && eval "mv $currentfolder ramp-webextensions-generator" && cd ramp-webextensions-generator; fi
