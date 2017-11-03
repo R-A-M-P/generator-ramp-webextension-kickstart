@@ -21,7 +21,7 @@ This generator uses:
 * Linting
 * CSS, Sass, Less
 * Environment variables
-* Image optimization
+* Image optimization 
 * Livereload
 * Packaging
 * Version management
