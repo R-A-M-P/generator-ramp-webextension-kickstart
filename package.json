@@ -31,11 +31,11 @@
     "babel",
     "less",
     "sass",
-    "webextension",
     "chrome-extension",
     "opera-extension",
     "firefox-extension",
-    "browser-extension"
+    "browser-extension",
+    "web-extensions"
   ],
   "dependencies": {
     "chalk": "^1.1.3",
