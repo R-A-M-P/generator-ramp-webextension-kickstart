@@ -68,9 +68,5 @@ if(process.env.NODE_ENV === 'development'){
   console.log('We are in development mode!');
 }
 ```
-
-
-
-
-
-
+## License
+This extension was built using the [RAMP WebExtensions Generator](https://github.com/R-A-M-P/ramp-webextensions-generator).
