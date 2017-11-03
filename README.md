@@ -3,7 +3,7 @@
 [![Build Status](https://secure.travis-ci.org/HaNdTriX/ramp-webextensions-generator.png?branch=master)](https://travis-ci.org/HaNdTriX/ramp-webextensions-generator) [![npm package](https://badge.fury.io/js/ramp-webextensions-generator.svg)](https://www.npmjs.com/package/ramp-webextensions-generator)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square)](https://github.com/feross/standard)
 
-The **RAMP WebExtensions Generator** is an advanced Browser Extensions generator that creates everything you need to get started with Browser Extensions development. Based on [ramp-webextensions-generator](https://github.com/HaNdTriX/ramp-webextensions-generator) by [HaNdTriX](https://github.com/HaNdTriX).
+The **RAMP WebExtensions Generator** is an advanced Browser Extensions generator that creates everything you need to get started with Browser Extensions development. Based on [generator-chrome-extension-kickstart](https://github.com/HaNdTriX/generator-chrome-extension-kickstart) by [HaNdTriX](https://github.com/HaNdTriX).
 
 This generator uses:
 
