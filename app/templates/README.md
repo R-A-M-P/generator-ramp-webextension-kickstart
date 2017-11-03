@@ -69,4 +69,4 @@ if(process.env.NODE_ENV === 'development'){
 }
 ```
 ## License
-This extension was built using the [RAMP WebExtensions Generator](https://github.com/R-A-M-P/ramp-webextensions-generator).
+This extension was built using the [RAMP WebExtensions Generator](https://github.com/R-A-M-P/generator-ramp-webextension-kickstart).
