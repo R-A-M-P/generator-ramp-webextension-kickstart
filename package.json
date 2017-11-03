@@ -32,10 +32,10 @@
     "less",
     "sass",
     "webextension",
-    "chrome",
-    "opera",
-    "firefox",
-    "extension"
+    "chrome-extension",
+    "opera-extension",
+    "firefox-extension",
+    "browser-extension"
   ],
   "dependencies": {
     "chalk": "^1.1.3",
