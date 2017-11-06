@@ -13,6 +13,8 @@ This generator uses:
 
 ## Features
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/R-A-M-P/generator-ramp-webextension-kickstart.svg)](https://greenkeeper.io/)
+
 * ES2015
 * Modules (ES2015, CommonJS, AMD)
 * Multi browser support ([chrome](https://developer.chrome.com/extensions), [firefox](https://wiki.mozilla.org/WebExtensions), [opera](https://dev.opera.com/extensions/), [edge](https://docs.microsoft.com/en-us/microsoft-edge/extensions))
