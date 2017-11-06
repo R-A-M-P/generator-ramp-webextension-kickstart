@@ -59,3 +59,5 @@ See the [contributing docs](https://github.com/yeoman/yeoman/blob/master/contrib
 ## License
 
 [MIT](LICENSE)
+
+[![npm](https://nodei.co/npm/generator-ramp-webextension-kickstart.png)](https://nodei.co/npm/generator-ramp-webextension-kickstart/)
