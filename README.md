@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/generator-ramp-webextension-kickstart)
+[![npm](https://img.shields.io/npm/dt/generator-ramp-webextension-kickstart.svg?style=flat-square)](https://www.npmjs.com/package/generator-ramp-webextension-kickstart)
 [![Build Status](https://api.travis-ci.org/R-A-M-P/generator-ramp-webextension-kickstart.svg?branch=master)](https://travis-ci.org/R-A-M-P/generator-ramp-webextension-kickstart)
 [![npm package](https://badge.fury.io/js/generator-ramp-webextension-kickstart.svg)](https://www.npmjs.com/package/generator-ramp-webextension-kickstart)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square)](https://github.com/feross/standard)
