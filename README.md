@@ -1,4 +1,5 @@
-[![Build Status](https://secure.travis-ci.org/HaNdTriX/generator-ramp-webextension-kickstart.png?branch=master)](https://travis-ci.org/HaNdTriX/generator-ramp-webextension-kickstart) [![npm package](https://badge.fury.io/js/generator-ramp-webextension-kickstart.svg)](https://www.npmjs.com/package/generator-ramp-webextension-kickstart)
+[![Build Status](https://api.travis-ci.org/R-A-M-P/generator-ramp-webextension-kickstart.svg?branch=master)](https://travis-ci.org/R-A-M-P/generator-ramp-webextension-kickstart)
+[![npm package](https://badge.fury.io/js/generator-ramp-webextension-kickstart.svg)](https://www.npmjs.com/package/generator-ramp-webextension-kickstart)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square)](https://github.com/feross/standard)
 [![Greenkeeper badge](https://badges.greenkeeper.io/R-A-M-P/generator-ramp-webextension-kickstart.svg)](https://greenkeeper.io/)
 
