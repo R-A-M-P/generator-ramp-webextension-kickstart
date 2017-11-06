@@ -1,7 +1,8 @@
-![generator-ramp-webextension-kickstart](images/ramp-webextension-kickstarter-intro.png)
-
 [![Build Status](https://secure.travis-ci.org/HaNdTriX/generator-ramp-webextension-kickstart.png?branch=master)](https://travis-ci.org/HaNdTriX/generator-ramp-webextension-kickstart) [![npm package](https://badge.fury.io/js/generator-ramp-webextension-kickstart.svg)](https://www.npmjs.com/package/generator-ramp-webextension-kickstart)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square)](https://github.com/feross/standard)
+[![Greenkeeper badge](https://badges.greenkeeper.io/R-A-M-P/generator-ramp-webextension-kickstart.svg)](https://greenkeeper.io/)
+
+![generator-ramp-webextension-kickstart](images/ramp-webextension-kickstarter-intro.png)
 
 The **RAMP WebExtensions Generator** is an advanced Browser Extensions generator that creates everything you need to get started with Browser Extensions development. Based on [generator-chrome-extension-kickstart](https://github.com/HaNdTriX/generator-chrome-extension-kickstart) by [HaNdTriX](https://github.com/HaNdTriX).
 
@@ -13,7 +14,7 @@ This generator uses:
 
 ## Features
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/R-A-M-P/generator-ramp-webextension-kickstart.svg)](https://greenkeeper.io/)
+
 
 * ES2015
 * Modules (ES2015, CommonJS, AMD)
