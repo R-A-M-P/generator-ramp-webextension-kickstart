@@ -38,7 +38,7 @@
     "web-extensions"
   ],
   "dependencies": {
-    "chalk": "^2.3.0",
+    "chalk": "^2.4.1",
     "slugify": "^1.2.1",
     "yeoman-assert": "^3.0.0",
     "yeoman-generator": "^2.0.1",
