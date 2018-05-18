@@ -46,7 +46,7 @@
     "yosay": "^2.0.0"
   },
   "devDependencies": {
-    "mocha": "^4.0.1",
+    "mocha": "^5.2.0",
     "standard": "^10.0.3"
   },
   "peerDependencies": {
